@@ -15,4 +15,8 @@ A Python tool to fetch Free Fire player information using a UID.
 ## Installation
 
 ```bash
-pip install -r requirements.txt
+sudo apt update
+sudo apt upgrade -y
+sudo apt install python3-pip -y
+pip3 install -r requirements.txt
+```
