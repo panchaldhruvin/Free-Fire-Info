@@ -74,7 +74,7 @@ def test_get_command(uid):
 {LABEL}├─ 👥 Members          : {VALUE}{clan.get('memberNum','Not Found')}
 {LABEL}└─ 👑 Leader           : {VALUE}{captain.get('nickname','Not Found')}
 
-# made by dhruvin (shine)...
+# made by Dhruvin (shine)...
 {HEADER}══════════════════════════════════════════════════════
 """
         print(text)
